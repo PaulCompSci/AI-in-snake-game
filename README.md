@@ -3,10 +3,6 @@ using different python libraries, reinforcement learning and deep Q learning to 
 
 
 
-credit to : Patrick Loeber (content creator on Youtube) 
-
-
-** declaimer : this project is only for learning purposes and I will not claim this as my personal project 
 
 ## 10 things that I learn from this project:
 1) python programming 
